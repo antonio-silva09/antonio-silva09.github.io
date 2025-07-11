@@ -1,7 +1,5 @@
 title: ObservaMigra
-email: antonio.silva09@exemplo.com
-description: >-
-  Blog sobre Migração e Refúgio, com dados, análises e notícias.
+description: Blog sobre Migração e Refúgio
 baseurl: ""
 url: "https://antonio-silva09.github.io"
 theme: minima
