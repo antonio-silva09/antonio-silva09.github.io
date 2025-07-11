@@ -1,0 +1,16 @@
+---
+layout: default
+title: Início
+---
+
+<h1>Bem-vindo ao ObservaMigra</h1>
+<p>Este é um espaço dedicado à análise crítica, divulgação científica e monitoramento de dados sobre migração, refúgio e mobilidades humanas.</p>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> <br/>
+      <small>{{ post.date | date: "%d/%m/%Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
