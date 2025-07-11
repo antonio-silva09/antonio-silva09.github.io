@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Boas-vindas ao ObservaMigra
-date: 2025-07-11
+title:  "Boas-vindas ao ObservaMigra"
 ---
 
-Este é o ObservaMigra, um espaço dedicado à análise crítica, divulgação científica e monitoramento de dados sobre migração, refúgio e mobilidades humanas. O blog reúne textos, projetos, visualizações e reflexões produzidas ao longo da trajetória acadêmica de Antonio Silva Neto.
+Bem-vindo ao ObservaMigra. Este blog compartilha dados, análises e reflexões sobre migração, refúgio e políticas públicas associadas.
